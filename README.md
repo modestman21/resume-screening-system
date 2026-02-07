@@ -1,2 +1,2 @@
 # resume-screening-system
-Screens resume against the job description
+Screens resume against the given job description
